@@ -8,6 +8,7 @@
 |git push| Para enviar tus commits | 📕 |
 |git add [nombre]| para agregar tus ficheros | 📗 |
 |git init| Para iniciar git en su archivo local | 📕 |
+|git commit -m ["exjemplo index.html v style.css"]| Para hacer los commits | 📕 |
 
 
 📕 - Tengo dudas   
