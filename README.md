@@ -1,6 +1,6 @@
 # Repo02
 
-|Command | Para qué sirve? | estado de conocimiento |
+|Command | Para qué sirve? | Estado de conocimiento |
 |:--- |:---- |----:|
 |git cd [diretorio]| Para añadir un directorio | 📗 |
 |git status| Para comprobar el estado de sus archivos | 📗 |
